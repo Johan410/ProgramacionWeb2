@@ -11624,73 +11624,73 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .img1{
-  background: url(recursos/img/about/01-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/01-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img2{
-  background: url(recursos/img/about/02-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img3{
-  background: url(recursos/img/about/03-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img4{
-  background: url(recursos/img/about/04-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img5{
-  background: url(recursos/img/about/05-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img6{
-  background: url(recursos/img/about/06-hacerzapato.jpg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img7{
-  background: url(recursos/img/about/07-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img8{
-  background: url(recursos/img/about/08-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img9{
-  background: url(recursos/img/about/09-hacerzapato.jpg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img10{
-  background: url(recursos/img/about/10-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img11{
-  background: url(recursos/img/about/11-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .img12{
-  background: url(recursos/img/about/12-hacerzapato.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/02-hacerzapato.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -11702,7 +11702,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .distribuidores{
   margin: 10% auto;
-  background: url(recursos/img/about/distribuidores.png) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/distribuidores.png) no-repeat;
   background-size: cover;
   background-position: center;
   width: 50vw;
@@ -11774,7 +11774,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .dama{
- background: url(recursos/img/about/01-mod.jpeg) no-repeat;
+ background: url(/ProgramacionWeb2-main/recursos/img/about/01-mod.jpg) no-repeat;
  background-size: cover;
  background-position: center; 
  color: white;
@@ -11786,7 +11786,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .deportes{
-  background: url(recursos/img/about/01dep.jpeg) no-repeat;
+  background: url(/ProgramacionWeb2-main/recursos/img/about/01dep.jpg) no-repeat;
  background-size: cover;
  background-position: right; 
  color: white;
